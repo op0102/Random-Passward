@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Random%20Passward/static/css/main.666d7eab.css",
+    "main.js": "/Random%20Passward/static/js/main.e93f21bd.js",
+    "index.html": "/Random%20Passward/index.html",
+    "main.666d7eab.css.map": "/Random%20Passward/static/css/main.666d7eab.css.map",
+    "main.e93f21bd.js.map": "/Random%20Passward/static/js/main.e93f21bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666d7eab.css",
+    "static/js/main.e93f21bd.js"
+  ]
+}
